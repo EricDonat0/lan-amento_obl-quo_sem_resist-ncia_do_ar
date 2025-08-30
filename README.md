@@ -1,4 +1,4 @@
-# 🎯 Canhão Interativo em JavaScript (p5.js)
+# 🎯 Canhão Interativo em JavaScript
 
 Simulação interativa de um **canhão disparando projéteis** usando **p5.js**, com física básica de movimento parabólico e controles visuais. Funciona diretamente no **Google Colab** ou qualquer notebook que suporte JavaScript.
 
